@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 branch dev
 branch no-ff
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
